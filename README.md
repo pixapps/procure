@@ -2,7 +2,7 @@
 
 This is a custom-made project management suite for non-profir organizations
 
-Features include
+Features include:
 *	Projects
 * News
 * Users
