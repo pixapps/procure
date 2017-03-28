@@ -21,7 +21,6 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'rspec-rails'
-  gem 'capybara'
   gem 'database_cleaner'
   gem 'factory_girl_rails'
 end
